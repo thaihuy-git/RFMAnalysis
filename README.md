@@ -6,6 +6,8 @@ Analyze customer purchasing behavior by utilizing RFM analysis to classify custo
 Data.zip
 
 # Docker is used to run SQL Server and save required environments:
+https://hub.docker.com/repository/docker/thaihuy22/docker-repo/tags
+
 
 
 # Database (SQL):
